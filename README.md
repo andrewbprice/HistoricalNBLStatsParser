@@ -8,9 +8,9 @@ The list of urls can be found on this page: http://websites.sportstg.com/comp_in
 
 # REQUIREMENTS
 
-Python 3.5
-BeautifulSoup (pip install bs4)
-Pandas (pip install pandas)
+Python 3.5 <br>
+BeautifulSoup (pip install bs4) <br>
+Pandas (pip install pandas) <br>
 
 # To Do
 
