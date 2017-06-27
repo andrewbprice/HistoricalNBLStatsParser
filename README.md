@@ -6,6 +6,9 @@ This script requires a URL from the SportsTG website currently used to hold all 
 
 The list of urls can be found on this page: http://websites.sportstg.com/comp_info.cgi?c=0-189-0-125723-0&a=REPORTS. Just change the season to the one required and click 'Fixture for the entire competition'
 
+Resulting data can be found on https://www.spatialjam.com/nbl-historical-stats<br>
+While I didn't exclusively use this tool for grabbing the data for that online database above (just for cleaning up odds and ends), it should be a reasonably good place to start.
+
 # REQUIREMENTS
 
 Python 3.5 <br>
