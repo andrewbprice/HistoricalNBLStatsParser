@@ -9,7 +9,7 @@ The list of urls can be found on this page: http://websites.sportstg.com/comp_in
 Resulting data can be found on https://www.spatialjam.com/nbl-historical-stats<br>
 <i>While I didn't exclusively use this tool for grabbing the data for that online database above (just for cleaning up odds and ends), it should be a reasonably good place to start.</i>
 
-# REQUIREMENTS
+# Requirements
 
 Python 3.5 <br>
 BeautifulSoup (pip install bs4) <br>
